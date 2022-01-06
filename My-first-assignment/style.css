@@ -111,3 +111,36 @@ margin-left: 20px;
 text-align: justify;
 margin-right: 25px;
 }
+
+.third-section {
+	display: flex;
+	margin-top: 100px;
+	width: 100%;
+	height: auto;
+
+}
+.third-section-left-logo {
+width: 35%;
+}
+.third-section-left-logo img {
+	height: 273px;
+	width: 280px;
+}
+.third-section-info {
+width: 50%;
+margin-top: 10px;
+}
+.third-section-info h2 {
+	font-size: 31px;
+	line-height: 0px;
+}
+.third-section-info h3 {
+	font-size: 21px;
+	line-height: 15px;
+}
+.third-section-info p {
+	color: #3E3E3E;
+	font-size: 17px;
+	line-height: 24px;
+	text-align: justify;
+}
